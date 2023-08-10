@@ -1,0 +1,64 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  margin-left: 5px;
+  padding-left: 5px;
+  border:2px solid rgb(0, 0, 0);
+ width:25vw ;
+ height: 95vh;
+}
+h1{
+color: rgb(109, 11, 11);
+}
+.hed{
+ padding: 7px;
+  background-color: rgb(83, 46, 168);
+
+}
+.hed1{
+ padding: 5px;
+color: white;
+  margin: 5px 10px 5px 0;
+  background-color: rgb(69, 109, 184);
+}
+label{
+  padding-left: 5px;
+font-size:smaller;
+}
+.fields{
+ margin: 5px 5px 5px 5px;
+  padding-right: 140px;
+
+}
+.container1{
+  margin-left: 40px;
+ 
+  padding-left: 5px;
+  border:2px solid rgb(0, 0, 0);
+  width:25vw ;
+  height: 95vh;
+}
+.contain{
+
+display: flex;
+justify-content: space-around;
+
+
+}
+.contain input{
+
+width: 0%;
+  height: 22px;
+
+}
+.inp{
+padding: 0 25px 0 25px;
+  margin-top: 20px;
+  margin-left: -150px;
+}
+table{
+  margin-top: 20px;
+}
